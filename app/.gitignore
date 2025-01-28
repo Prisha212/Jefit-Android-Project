@@ -1,0 +1,23 @@
+# Built application files
+*.apk
+*.ap_
+/build/
+
+# Gradle files
+.gradle/
+/local.properties
+.idea/
+*.iml
+
+# Keystore files
+*.jks
+
+# Miscellaneous
+.DS_Store
+*.log
+*.orig
+*.lock
+.classpath
+.project
+.settings/
+.externalNativeBuild/
