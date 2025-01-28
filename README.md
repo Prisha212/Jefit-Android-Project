@@ -22,8 +22,17 @@ Yelp Explorer is an Android application that allows users to search for and expl
 
 ## Getting Started
 
-1. **Clone the Repository**: Clone the Jefit Android Projec repository.
+1. **Clone the Repository**: Clone the Jefit Android Project repository.
 2. **Build and Run**: Open the project in Android Studio and build the app. Then, run the app on an Android device or emulator.
+
+   **Home Screen**
+![image](https://github.com/user-attachments/assets/5979d2e4-339a-4938-bdd1-9fa8d50e4f2f)
+
+ **Business List Screen**
+![image](https://github.com/user-attachments/assets/220f6c76-4045-4b2c-ab70-b491ff9645cf)
+
+**Business Details Screen**
+![image](https://github.com/user-attachments/assets/6e08f801-ce3a-41ab-95d2-7bf8e73a3c76)
 
 
 
