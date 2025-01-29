@@ -37,7 +37,7 @@ Yelp Explorer is an Android application that allows users to search for and expl
 ![image](https://github.com/user-attachments/assets/6e08f801-ce3a-41ab-95d2-7bf8e73a3c76)
 
 
-**List of the business with like stored in the database**
+**List of the business with likes stored in the database**
 ![image](https://github.com/user-attachments/assets/e09b9077-e000-49da-a808-2fdbddb35c0c)
 
 
